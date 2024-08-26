@@ -1,3 +1,5 @@
+import '../assets/styles/ContactUs.css'
+
 export default function ContactUs() {
   return (
     <section id="contact" className="contact-us">

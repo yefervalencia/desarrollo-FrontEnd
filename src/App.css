@@ -1,0 +1,13 @@
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+a {
+  color: #ff5a00;
+}
+
+a:hover {
+  color: #e04a00;
+}

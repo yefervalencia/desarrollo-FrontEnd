@@ -1,3 +1,5 @@
+import '../assets/styles/AboutUs.css'
+
 export default function AboutUs() {
   return (
     <section id="about" className="about-us">
