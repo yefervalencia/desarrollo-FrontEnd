@@ -1,13 +1,14 @@
+import '../assets/styles/Navbar.css'
 
 export default function Navbar() {
   return (
     <nav className ="navbar">
-      <div className="navbar-log">motoStore</div>
-      <ul className="navbar-links">
-        <li><a href="#home"></a></li>
-        <li><a href="#products"></a></li>
-        <li><a href="#about"></a></li>
-        <li><a href="#contact"></a></li>
+      <div className="navbar-logo">motoStore</div>
+      <ul className="navbar-menu">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#products">Products</a></li>
+        <li><a href="#aboutUs">AboutUs</a></li>
+        <li><a href="#contactUs">ContactUs</a></li>
       </ul>
     </nav>
   )
